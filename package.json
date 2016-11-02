@@ -1,0 +1,26 @@
+{
+  "name": "c-server",
+  "version": "0.0.1",
+  "description": "A simple Unix Web server written in C",
+  "main": "example.c",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soywod/c-server.git"
+  },
+  "keywords": [
+    "server",
+    "c",
+    "web",
+    "fast",
+    "simple"
+  ],
+  "author": "Clément DOUIN <clementdouin@soywod.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soywod/c-server/issues"
+  },
+  "homepage": "https://github.com/soywod/c-server#readme"
+}
